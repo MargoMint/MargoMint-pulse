@@ -1,0 +1,18 @@
+<svg width="45.000000" height="42.000000" viewBox="0 0 45 42" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip2_167">
+			<rect id="messages-64" width="45.000000" height="42.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<pattern id="pattern_2_1660" patternContentUnits="objectBoundingBox" width="1.000000" height="1.000000">
+			<use xlink:href="#image2_166_0" transform="matrix(0.022222,0,0,0.02381,0,0)"/>
+		</pattern>
+		<image id="image2_166_0" width="45.000000" height="42.000000" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAqCAYAAAAnH9IiAAAABHNCSVQICAgIfAhkiAAABN1JREFUWIXVmEmIXFUUhr/zqro6PSSROCUbI4K4EEEEB3ThQhAUVxJByM6lBnVr3LnWpe5EMNIKTmjHqBjIRhQXBhGMaV0EHAgtcUx30kNV/S7uuf1ula/eUD0Ef3hU93vnnPu/8850rwFIagF9MxMOSQa0yNE3sz4VcL12otsH1lPbBTqZmfUlWZlchEk6BDwPTAIZcNmv9WjT7/f8b/P7U8AsMFFgt5XI9YGu2+v6/y1/sUm3uwLMAS/VcUwbuAm4HfgF+Cm+DDADdNxoz+/ZkP6aX9E7LX/BSLaX2IvIXH4dWAZ2+/o/FtgfSToKPm1m70ua9nttX/hyhY1IeJLgdXOyqwnpYcQ1e8DNwEJipxHpiwBmdqmu8hDG0pPUJSdcGRoQPlUU3D3OouNCUgyjWf9dq5OEkMcfBK/vJDTitxIZOfEdJZ14dZkGhCEQjjG9XiY4DEmZ1+RG8J6QYqmpjdS7haQl7QH2kFeCSWBX1JG0RKi/8QViLU/Lnwjlswv8zmBVqZV8w6SrPs1h4JAvljHYONZ80axYdYNwBlwNfAy82JTkMOqQfg84RajBHZfvE0pcbDqjINebJrzsXy6frtk4xNLwKCRvZovAYlPDDbAp0t0iAUlPAY8Cf5K3337FYjGuJ8hDZxaYM7PXm5AuGqJKSXumnwb+JoTDJapjuE8Io13kobDiz84WyKcJ/N+HBQ1nZHh4OZsGvjKzL0tIbhbRARbLoZmNmlmA6oZyCXhc0l2E8Cj7lPELTJJPhF1ChckIDjhhZqcKdOV6mZlV9os6XfCiXyslMrFKtAjTHeRTniXXKA9mhE3GuqQngXvJ80aESXPezI7XIm1m88B8ldwmEL9MDM97CL1hGLcAx2EwoTqphJmpKrZSSLJx2jrhC6X59ASwN7kOAhdIdkhpc9nUwFR3rCxA1Ou6nS7wz8ZDaZWk1UuydGAq2uvtBPqUd+XpRA4gS0fTcT7tVqAswVPE6VBpTDcaTXcY6aZ6gHTjEXGLUJVLHfIdPGamjX8IO4iRGLMy1EFMulH2pyKFeCPdjb8h6Vfy3Uw8PngZeAuYiDtnM5Okh4FnCDNGUSLFoSlLbMqvNnniz/jzgUKQDEqx7G5EQhs4B3zrRqcI2RpPf64ldMMPXGnKzJYlPQR85DbOJd4YJtwmDFvRXuxyqVd7wHfOYQPumOi8gdBtA+8QOl4cOePOZB9wxmUyoOeE7wdOEE6kHgR+IN9+pYiD/93AH8A3w4snaFFQRZz4CtWjcICkjqQLkj6TNOv3bpW0pIA7KvRNUkvSeUlvVy4YdNrxPCT5nZG0KOnzKFc2F1+P10YzW5J0ADhJiMH7zOx0DR4Tfh2sQTgecnYkTSQHkWleACPKjcdSFPrZPf0psB84bGZfVJHwT7tKONS8U9J58lBLEUfaNeA1Mzsq6SpJxwhD0n7C6ddCKWkGdxw3EuL+NuCImc1VER4i/irwGHANefWIiJWk6+s8J2mBsGt/hFCGzxCS+c3SxTwer5P0vXK8UJdsE8T6L2mfpJO+1jH/PdLU2F5Jv7nyK9tEOHMHxaSbkvR14qhnmxqclPSJpHe3g3DJugcknXXSR8cxMFsttfWQdIOkDyU9cCXW/39jeODaxgGsPokmsnV1t/TFdsJLm9goXzlIGjli/Ato0V5nfWgdiwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<rect id="messages-64" width="45.000000" height="42.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip2_167)">
+		<rect id="messages 64" width="45.000000" height="42.000000" fill="url(#pattern_2_1660)" fill-opacity="1.000000"/>
+	</g>
+</svg>

@@ -1,0 +1,12 @@
+<svg width="42.000000" height="46.000000" viewBox="0 0 42 46" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<pattern id="pattern_2_1590" patternContentUnits="objectBoundingBox" width="1.000000" height="1.000000">
+			<use xlink:href="#image2_159_0" transform="matrix(0.02381,0,0,0.021739,0,0)"/>
+		</pattern>
+		<image id="image2_159_0" width="42.000000" height="46.000000" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAuCAYAAABeUotNAAAABHNCSVQICAgIfAhkiAAABRFJREFUWIW9mWmIVlUYx3/nnXGp0UwrKdNJmRIpsdI2Mmij3SJaSLI+CdpOJe1BFElgQlD0oSDaiKLNIsIWJIgo+5K0Gg4itFASmpqWyzi/Ptzn2vX1nZn3vve1PwxnzjnP/3n+99xzzj3PeaFNUCeo36qb1F/UGe3yDVCrICzVNU0BpgNjgCOBYyro2gctCVVrKSXrmncB/xTqO8K2o0Vte6GzjHGMYi2ltLtB9x9AUfyfAAPYlkbTQhuJVMcCJwEzgDOAAwuUxeonwBpgZUppXZNxagAppf5mtdWLzP8/Qp2nLndfbFb/iAVVj8/UBWrPIHEOUd9UH63vG3JE1ZRSUh0D3AfcBIyO7i+AT4FeYC2wkWzeHwgcDIwnW2SnAecDs8PnM8DjKaW1hThdwCvABVHfllJ6bCh99WKvVTfEyKxX71an5a+p/sEG8HGMeoPaG3761Dtye/UA9floz3H/UMJycpf6nNoff3epBwzAGaWOiv87BxHcEVNgY4j5QO0u9H9RN2UebLhzFEQerf4Qxu8MMbc6YkR6YrS7B7ItcA5TXwr/G9QT1Tnqtgbzu6eenIucXHhFDw8VtMC/Ojg3luDcFpxt8dZ+Vs9VX4hp8GTDtxhPuibIi5oNGNwrgnd7k/b5wFxTGL0ro22kevZgpHzbeaiEwJx7WXBvaZZb8DE/uCvU4UMZ3xrGb5cRWRB6eatCg780+E8NZjRR3an+pB5UVmSbhHaq34WPU6KtpnYW98ElwDBgUUppSzOOU0o2OJy0jJRSH7Agqk/k+vcYmG3Gqt9XCVR1RAt+Xgs/F0W9Ix/Ru6J8pEqANmJplHdCnMDU0WYb7iZ1WD3DBp/JgVAY0Zuj3vDr1ISf4erq8NUN2QFiFjAOeCWltKsRr4VYI1oRmCOltBNYFtWLIRN6cjS8PwCpjNDcttSBfAB8GOU5kAk9KRoqLaTAXoeHijvCSqAPOF6t1cgSsvVE6tAKCnMxz5k2VhAIQEppB1l20A2MrwFHAeuAra1OfiDf+M+M+sllFuEgWAuMBMYRK+uD+AKUdh68pD7k3ni6qkr1xfA1qyisRgvpcyRhE4D6o91CdWoFnQB7EskasBPoAoYD5TO/DFuBRp/dqq8/P3NsrwG/k43IiJZS1Axb+O/bnOOFlNKPLfrLMYls5f9FzM9+9fCKTlGXxJx6ucLCLPrbYnbiH1kDVgEJmFzVMfBelB9XPVWpU8jS8jUppe014Mvo2/fYXx5fA5cCy9vg66woPwf2XBf2qaub9dCO19pEjA9jGp1ebMzzpFOacNCUyCoPo05Rd5slmanYMSeELhuEXyZQpRFXFxePi/Wdea4yvUqQqlCPUreaXbZ1NTI4L4R+FPX9Pg/r4ueZ7KuhY/5gxm+E0d1F8v8o8qqI/9VQhLFmt3WqF/5PImtRzlT/Vv9Rj22GeEkI3a7O3M8ih0c5TV0Xcec1Q8yfbm5sD5vV2ftBYDKuEtVZ6q8h8t5WnF0ZYlVvbbfYiJHfN6neU8XRef53H/+uenyhb1iri02dbnZwyXF9yyILTiepbxWcvqjOdqgbt8a+ZpjdYOdYYbv37dg61hSCrFIfUE9Vu82uxvN5VzO7Vp8Yq/lms19FcvymLrRE6lPq1amdwHXAXOLXiwJ6gQ1kmegIskuNHrKLtxyfAa8Dz0aW2TSaFmr2s2J/oX4cWap9GnACMBU4lCyl2R2ie4FvyI6S36SUVpURV8S/t+hRE7cMbQQAAAAASUVORK5CYII="/>
+	</defs>
+	<rect id="019_timer_time_stopwatch_2-64" width="42.000000" height="46.000000" fill="url(#pattern_2_1590)" fill-opacity="1.000000"/>
+</svg>

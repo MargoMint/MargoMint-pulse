@@ -1,6 +1,7 @@
 @import "base/variables";
 * {
     font-family: 'Museo Sans  Cyrl', sans-serif;
+    font-size: 14px;
 }
 .container {
     max-width: 950px;
@@ -14,3 +15,6 @@ h1, h2, h3, h4, h5, h6 {
 @import"../sass/blocks/buttons";
 @import"../sass/blocks/advantages";
 @import"../sass/blocks/title";
+@import"../sass/blocks/consultation";
+@import"../sass/blocks/forms";
+@import "../sass/blocks/carousel";

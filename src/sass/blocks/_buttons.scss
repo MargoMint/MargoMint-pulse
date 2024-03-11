@@ -16,3 +16,10 @@
         margin-top: 67px;
     }
 }
+@media (max-width: 768px) {
+    .button {
+        &_main {
+            height: 40px;
+        }
+    }
+}

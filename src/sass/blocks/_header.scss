@@ -34,3 +34,20 @@
         align-items: flex-end;
     }
 }
+@media (max-width: 650px) {
+    .header {
+        &__official {
+            display: none;
+        }
+    }
+}
+@media (max-width: 524px) {
+    .header {
+        &__logo {
+            width: 230px;
+        }
+        &__phone {
+            font-size: 16px;
+        }
+    }
+}

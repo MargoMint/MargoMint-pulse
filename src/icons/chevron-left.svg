@@ -1,18 +1,1 @@
-<svg width="31.000000" height="50.000000" viewBox="0 0 31 50" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-	<desc>
-			Created with Pixso.
-	</desc>
-	<defs>
-		<clipPath id="clip2_121">
-			<rect id="chevron-left-solid" width="31.000000" height="50.000000" fill="white" fill-opacity="0"/>
-		</clipPath>
-		<pattern id="pattern_2_1200" patternContentUnits="objectBoundingBox" width="1.000000" height="1.000000">
-			<use xlink:href="#image2_120_0" transform="matrix(0.032258,0,0,0.02,0,0)"/>
-		</pattern>
-		<image id="image2_120_0" width="31.000000" height="50.000000" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAyCAYAAACknADRAAAABHNCSVQICAgIfAhkiAAAAk9JREFUWIXV2DFrFEEUAOBvzoiooIW1lT8hITFGJAmYQqNgoY0gpDOB1AbFOtpaBAuxEAOCIiKx0EItxNs7LCwsTSEoCFYmkCDGrIV3IcaLt7O7yek0Bzfz+N7s3ezMPLawJXQnVBMWEpKE7vX9YQvhITzCvnVfLwVO9fF8y/Aawylz2N2iezkw2sfz0vE28FoCGCkVr3Ey5X4bGATe7igLrnIaD7ErY8jeSllw4AF2Zo0JvC782F9ztsJsDIxPPxgoNPMq5yvci4ED8985MsCH3DOvcj5wB5knEJhPGTzMRzGB61vCWFE4F15nHLeLwtF4nfFVZmJiAu8CRzfCUXiNyTzwN4Z7+dyqPxNeZyrlRh74GF/+MqY9vMp02TBtZl7jciyMOgbbwY0kN4WvpVyKhbsY6eFrlsEt8e2A/8BTQp3p7YB/wxvwTMrFSPhFF2di4TW8IDzaw1IsDKFTMHTVuKoDML/W+URkzJMy4CYe20o7dFZEbhY4scLcG/YUxTv6h+voUqs0Mkh7mQjcjIwfavwE+3PjzQT6GA9cz5HAszwJ/Dsby3YnsOk672MqcCUS713hWY0DWQZ39BiV6W21VQlkflXWmCz7BBv1ni5waTje6uwevUnkTKDldSnXDpUwhlsK3tf+vysy9DObcgGrWWNSDgVe1jnYSKZYq3IucFeOskgpp5KcBaGnpR2JciSwWEopDPp5HDjjV3WxbQu872j5s7SZN1ujoDtq8yewHBg9zKvS8Q0JLGzoWmpWnCmwzrMkgGEkWGx8HmvC8BOypurnBg2SywAAAABJRU5ErkJggg=="/>
-	</defs>
-	<rect id="chevron-left-solid" width="31.000000" height="50.000000" fill="#FFFFFF" fill-opacity="0"/>
-	<g clip-path="url(#clip2_121)">
-		<rect id="chevron left solid" width="31.000000" height="50.000000" fill="url(#pattern_2_1200)" fill-opacity="1.000000"/>
-	</g>
-</svg>
+<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="chevron-left" class="svg-inline--fa fa-chevron-left fa-w-10" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="#c70101" d="M34.52 239.03L228.87 44.69c9.37-9.37 24.57-9.37 33.94 0l22.67 22.67c9.36 9.36 9.37 24.52.04 33.9L131.49 256l154.02 154.75c9.34 9.38 9.32 24.54-.04 33.9l-22.67 22.67c-9.37 9.37-24.57 9.37-33.94 0L34.52 272.97c-9.37-9.37-9.37-24.57 0-33.94z"></path></svg>

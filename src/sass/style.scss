@@ -1,13 +1,12 @@
 @import "base/variables";
 * {
     font-family: 'Museo Sans  Cyrl', sans-serif;
-    font-size: 14px;
 }
 .container {
     max-width: 950px;
     margin: 0 auto;
 }
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, ul, li, ol {
     margin-bottom: 0;
 }
 @import "../sass/blocks/promo.scss";
@@ -18,3 +17,5 @@ h1, h2, h3, h4, h5, h6 {
 @import"../sass/blocks/consultation";
 @import"../sass/blocks/forms";
 @import "../sass/blocks/carousel";
+@import"../sass/blocks/catalog";
+@import"../sass/blocks/opinion";

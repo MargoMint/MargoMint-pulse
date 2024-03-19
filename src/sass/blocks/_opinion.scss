@@ -1,0 +1,38 @@
+.opinion {
+    padding-bottom: 157px;
+    &__wrapper {
+        margin-top: 60px;
+    }
+    &__block {
+        display: flex;
+        justify-content: center;
+        margin-top: 105px;
+        &:nth-child(1) {
+            margin-top: 0;
+        }
+        img {
+            width: 169px;
+            height: 169px;
+        }
+    }
+    &__text {
+        margin-left: 60px;
+    }
+    &__title {
+        color: rgb(13, 13, 13);
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 18px;
+    }
+    &__subtitle {
+        color: rgb(100, 100, 100);
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 17px;
+        margin: 5px 0 15px 0;
+    }
+    &__descr {
+        font-size: 16px;
+        font-weight: 300;
+    }
+}

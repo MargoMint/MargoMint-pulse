@@ -79,4 +79,6 @@ $(document).ready(function(){
     valideForms('#consultation-form');
     valideForms('#consultation form');
     valideForms('#order form');
+
+    $('input[name=phone]').inputmask("+7 (999) 999-99-99");
 });

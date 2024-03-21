@@ -10,4 +10,12 @@
         line-height: 25px;
         margin-top: 10px;
     }
+    .error {
+        border: 1px solid $main-color;
+    }
+    label.error {
+        color: #ffff;
+        border: none;
+        margin-bottom: 15px;
+    }
 }

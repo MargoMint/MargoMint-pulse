@@ -9,7 +9,7 @@ gulp.task('server', function() {
 
     browserSync({
         server: {
-            localhost: "src"
+            baseDir: "src"
         }
     });
 

@@ -1,16 +1,16 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pulse</title>
-    <link rel="stylesheet" href="/css/bootstrap-reboot.min.css">
-    <link rel="stylesheet" href="/css/fonts.css">
-    <link rel="stylesheet" type="text/css" href="/css/slick.css"/>
-    <link rel="stylesheet" href="/css/style.min.css">
+    <link rel="stylesheet" href="css/bootstrap-reboot.min.css">
+    <link rel="stylesheet" href="css/fonts.css">
+    <link rel="stylesheet" type="text/css" href="css/slick.css">
+    <link rel="stylesheet" href="css/animate.min.css">
+    <link rel="stylesheet" href="css/style.min.css">
 </head>
 <body>
-    <h1 class="animate__animated animate__backInUp">An animated element</h1>
     <section id="up" class="promo">
         <div class="container">
             <header class="header">
@@ -87,7 +87,7 @@
         </div>
     </section>
 
-    <section class="carousel">
+    <div class="carousel">
         <div class="container">
             <div class="carousel__inner">
                 <div><img src="/img/slade1.jpeg" alt="slade1"></div>
@@ -95,12 +95,11 @@
                 <div><img src="/img/slade3.jpeg" alt="slade3"></div>
             </div>
         </div>
-    </section>
+    </div>
 
     <section class="catalog">
         <div class="container">
             <h2 class="title title_light">Каталог пульсометров</h2>
-
             <ul class="catalog__tabs">
                 <li class="catalog__tab catalog__tab_active"><div>ДЛЯ ФИТНЕСА</div></li>
                 <li class="catalog__tab"><div>ДЛЯ БЕГА</div></li>
@@ -108,7 +107,7 @@
             </ul>
 
             <div class="catalog__content catalog__content_active">
-                <div class="catalog-item">
+                <div class="catalog-item animate__animated animate__fadeIn wow" data-wow-duration="3s" data-wow-delay=".2s">
                     <div class="catalog-item__wrapper">
                         <div class="catalog-item__content catalog-item__content_active">
                             <img src="/img/pulsometr.png" alt="pulsometr" class="catalog-item__img">
@@ -135,7 +134,7 @@
                         <button class="button button_mini">КУПИТЬ</button>
                     </div>
                 </div>
-                <div class="catalog-item">
+                <div class="catalog-item animate__animated animate__fadeIn wow" data-wow-duration="3s" data-wow-delay=".4s">
                     <div class="catalog-item__wrapper">
                         <div class="catalog-item__content catalog-item__content_active">
                             <img src="/img/pulsometr.png" alt="pulsometr" class="catalog-item__img">
@@ -162,7 +161,7 @@
                         <button class="button button_mini">КУПИТЬ</button>
                     </div>
                 </div>
-                <div class="catalog-item">
+                <div class="catalog-item animate__animated animate__fadeIn wow" data-wow-duration="3s" data-wow-delay=".6s">
                     <div class="catalog-item__wrapper">
                         <div class="catalog-item__content catalog-item__content_active">
                             <img src="/img/pulsometr.png" alt="pulsometr" class="catalog-item__img">
@@ -189,7 +188,7 @@
                         <button class="button button_mini">КУПИТЬ</button>
                     </div>
                 </div>
-                <div class="catalog-item">
+                <div class="catalog-item animate__animated animate__fadeIn wow" data-wow-duration="3s" data-wow-delay=".8s">
                     <div class="catalog-item__wrapper">
                         <div class="catalog-item__content catalog-item__content_active">
                             <img src="/img/pulsometr.png" alt="pulsometr" class="catalog-item__img">
@@ -216,7 +215,7 @@
                         <button class="button button_mini">КУПИТЬ</button>
                     </div>
                 </div>
-                <div class="catalog-item">
+                <div class="catalog-item animate__animated animate__fadeIn wow" data-wow-duration="3s" data-wow-delay="1s">
                     <div class="catalog-item__wrapper">
                         <div class="catalog-item__content catalog-item__content_active">
                             <img src="/img/pulsometr.png" alt="pulsometr" class="catalog-item__img">
@@ -243,7 +242,7 @@
                         <button class="button button_mini">КУПИТЬ</button>
                     </div>
                 </div>
-                <div class="catalog-item">
+                <div class="catalog-item animate__animated animate__fadeIn wow" data-wow-duration="3s" data-wow-delay="1.2s">
                     <div class="catalog-item__wrapper">
                         <div class="catalog-item__content catalog-item__content_active">
                             <img src="/img/pulsometr.png" alt="pulsometr" class="catalog-item__img">
@@ -273,7 +272,7 @@
             </div>
             
             <div class="catalog__content">
-                <div class="catalog-item">
+                <div class="catalog-item animate__animated animate__fadeIn">
                     <div class="catalog-item__wrapper">
                         <div class="catalog-item__content catalog-item__content_active">
                             <img src="/img/pulsometr.png" alt="pulsometr" class="catalog-item__img">
@@ -303,7 +302,7 @@
             </div>
 
             <div class="catalog__content">
-                <div class="catalog-item">
+                <div class="catalog-item animate__animated animate__fadeIn">
                     <div class="catalog-item__wrapper">
                         <div class="catalog-item__content catalog-item__content_active">
                             <img src="/img/pulsometr.png" alt="pulsometr" class="catalog-item__img">
@@ -331,7 +330,7 @@
                     </div>
                 </div>
 
-                <div class="catalog-item">
+                <div class="catalog-item animate__animated animate__fadeIn">
                     <div class="catalog-item__wrapper">
                         <div class="catalog-item__content catalog-item__content_active">
                             <img src="/img/pulsometr.png" alt="pulsometr" class="catalog-item__img">
@@ -368,7 +367,7 @@
             <h2 class="title">отзывы клиентов</h2>
 
             <div class="opinion__wrapper">
-                <div class="opinion__block">
+                <div class="opinion__block animate__animated animate__fadeInUp wow" data-wow-duration="2s" data-wow-delay=".5s">
                     <img src="/img/client/photo_1.png" alt="client1">
                     <div class="opinion__text">
                         <div class="opinion__title">Ирина Иванченко</div>
@@ -376,7 +375,7 @@
                         <div class="opinion__descr">Не знала, что себе купить - обратилась к ребятам из RunSmart - подобрали пульсометр, который подошёл именно под мои цели и финансовые возможности. Через некоторое время решила обновить гаджет - не раздумывая обратилась туда же. <br> Новые цели - новый гаджет! <br>Спасибо, RunSmart! </div>
                     </div>
                 </div>
-                <div class="opinion__block">
+                <div class="opinion__block animate__animated animate__fadeInUp wow" data-wow-duration="2s" data-wow-delay=".5s">
                     <img src="/img/client/photo_2.png" alt="client2">
                     <div class="opinion__text">
                         <div class="opinion__title">Иван Сёмочкин</div>
@@ -384,7 +383,7 @@
                         <div class="opinion__descr">Крутая штука-пульсометр. Обычно без них бегал. Оказывается только хуже себе делал. Купил пульсометр, ещё в подарок получил тренировку. Со мной вместе провели первую тренировку, научили пользоваться новым гаджетом. Также объяснили основы анатомии, составили план тренировок на месяц вперёд. <br> С ними подготовился к своему первому полумарафону! Спасибо!!!</div>
                     </div>
                 </div>
-                <div class="opinion__block">
+                <div class="opinion__block animate__animated animate__fadeInUp wow" data-wow-duration="2s" data-wow-delay=".5s">
                     <img src="/img/client/photo_3.png" alt="client3">
                     <div class="opinion__text">
                         <div class="opinion__title">Юлия Дашкина</div>
@@ -397,7 +396,7 @@
     </section>
 
     <footer class="footer">
-        <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A89ae5c7c895884f67013edad947449b20e384900f3cf4ccb5947cb6f027e0282&amp;source=constructor" width="100%" height="630" frameborder="0"></iframe>
+        <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A89ae5c7c895884f67013edad947449b20e384900f3cf4ccb5947cb6f027e0282&amp;source=constructor"></iframe>
         
         <div class="footer__info">
             <address class="footer__addr">Москва, Мясницкий проезд, д.3с1</address>
@@ -444,12 +443,13 @@
 
     <a href="#up" class="pageup"><img src="icons/circle-up-solid.svg" alt="up"></a>
 
-    <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-    <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
     <script src="/js/slick.min.js"></script>
     <script src="/js/jquery.validate.min.js"></script>
     <script src="/js/jquery.inputmask.min.js"></script>
     <script src="/js/inputmask.binding.js"></script>
+    <script src="js/wow.min.js"></script>
     <script src="/js/script.js"></script>
 </body>
 </html>

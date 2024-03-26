@@ -123,4 +123,7 @@ $(document).ready(function(){
         });
         }
     });
+
+    //wow animate opinion
+    new WOW().init();
 });

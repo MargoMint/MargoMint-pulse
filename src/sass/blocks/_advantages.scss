@@ -12,6 +12,15 @@
         display: block;
         margin: 0 auto;
         margin-bottom: 37px;
+        &_animated {
+            animation: heartbeat 1.5s ease infinite;
+        }
+        &_animated2 {
+            animation: shoetransform 1.5s ease infinite;
+        }
+        &_animated3 {
+            animation: cuptransform 1.5s ease infinite;
+        }
     }
     &__header {
         font-size: 18px;

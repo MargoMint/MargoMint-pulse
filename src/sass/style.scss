@@ -1,4 +1,7 @@
+
 @import "base/variables";
+@import "base/animations";
+
 * {
     font-family: 'Museo Sans  Cyrl', sans-serif;
 }
@@ -21,3 +24,4 @@ h1, h2, h3, h4, h5, h6, ul, li, ol {
 @import"../sass/blocks/opinion";
 @import"../sass/blocks/footer";
 @import"../sass/blocks/modal";
+@import"../sass/blocks/pageup";

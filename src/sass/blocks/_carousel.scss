@@ -25,3 +25,38 @@
 .slick-slide img {
     margin: 0 auto;
 }
+@media (max-width: 769px) {
+    .carousel {
+        padding-bottom: 45px;
+        &__inner {
+            width: 635px;
+            img {
+                width: 100%;
+            }
+        }
+        .slick-prev, .slick-next {
+            left: -38px;
+        }
+        .slick-next {
+            right: -38px;
+            left: auto;
+        }
+        ul.slick-dots {
+                display: flex;
+                margin-top: 30px;
+                justify-content: center;
+                li {
+                    margin-right: 20px;
+                    list-style-type: none;
+                    button {
+                        font-size: 0;
+                        width: 10px;
+                        height: 10px;
+                        background-color: $main-color;
+                        border-radius: 50%;
+                        border: none;
+                    }
+                }
+            }
+    }
+}

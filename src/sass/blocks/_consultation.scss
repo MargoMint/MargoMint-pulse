@@ -19,3 +19,14 @@
         margin-bottom: 15px;
     }
 }
+@media (max-width: 769px) {
+    .consultation {
+        padding: 100px 20px;
+        .title_left {
+            font-size: 32px;
+        }
+        &__descr {
+            font-size: 18px;
+        }
+    }
+}

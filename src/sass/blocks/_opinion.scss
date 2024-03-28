@@ -37,3 +37,17 @@
         font-weight: 300;
     }
 }
+@media (max-width: 769px) {
+    .opinion {
+        padding: 0 20px 80px 20px;
+        &__wrapper {
+            margin-top: 40px;
+        }
+        &__block {
+            margin-top: 60px;
+        }
+        &__descr {
+            font-size: 14px;
+        }
+    }
+}

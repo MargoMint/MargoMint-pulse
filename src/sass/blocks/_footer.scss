@@ -64,3 +64,15 @@
         border: none;
     }
 }
+@media (max-width: 769px) {
+    .footer {
+        height: 520px;
+        &__info {
+            padding: 20px;
+            height: 200px;
+        }
+        iframe {
+            height: 520px;
+        }
+    }
+}

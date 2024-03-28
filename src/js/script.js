@@ -4,9 +4,10 @@ $(document).ready(function(){
         adaptiveHeight: true,
         prevArrow: '<button type="button" class="slick-prev"><img src="../icons/chevron-left.svg"></button>',
         nextArrow: '<button type="button" class="slick-next"><img src="../icons/chevron-right.svg"></button>',
+        dotsClass: 'slick-dots',
         responsive: [
             {
-                breakpoint: 992,
+                breakpoint: 769,
                 settings: {
                     dots: true,
                     arrows: false
@@ -105,7 +106,7 @@ $(document).ready(function(){
 
     //page up (smooth scroll)
     $(window).scroll(function() {
-        if ($(this).scrollTop() > 1600) {
+        if ($(this).scrollTop() > 1500) {
             $('.pageup').fadeIn();
         } else {
             $('.pageup').fadeOut();

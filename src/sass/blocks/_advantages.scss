@@ -40,3 +40,18 @@
         text-align: center;
     }
 }
+@media (max-width: 769px) {
+    .advantages {
+        padding: 70px 20px;
+        &__icon {
+            width: 230px;
+        }
+        &__header {
+            font-size: 16px;
+            margin-bottom: 16px;
+        }
+        &__subheader {
+            font-size: 14px;
+        }
+    }
+}

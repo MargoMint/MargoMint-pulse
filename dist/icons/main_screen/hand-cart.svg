@@ -1,0 +1,18 @@
+<svg width="44.000000" height="45.000000" viewBox="0 0 44 45" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip2_164">
+			<rect id="app-08-hand-cart-64" width="44.000000" height="45.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<pattern id="pattern_2_1630" patternContentUnits="objectBoundingBox" width="1.000000" height="1.000000">
+			<use xlink:href="#image2_163_0" transform="matrix(0.022727,0,0,0.022222,0,0)"/>
+		</pattern>
+		<image id="image2_163_0" width="44.000000" height="45.000000" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAtCAYAAADV2ImkAAAABHNCSVQICAgIfAhkiAAABNJJREFUWIXNmGuIVVUUx9e5d0Yds8EaGvBRWiSEpr1jbOqDaFb0QSjLLAeV6DVDEFZGBUVZ0Nug5yBWmIMRFUZC4WDEREOMPaUakgzKEc3IKc1qZPTXh/0/3j3He+4993FmXHA5Z+31+u99915r7WNWBgFBOXapEXAb0AnUjjSWKGVixg+Z2Twzu9HsOFzRKAFZYC+wDcgAcRM7fgh4GEdNI40lEQFTgcPASyONpSiFWwDoAAaBcQlsAu99LDAfWJomzqOBw+wAnK9t0ZrQdgpwF9BLjs5OE+hooB44EajR4dsG7CxiOwfYCPwjkJuBW4EDwJupAFbgldoC+agpotsA3KAJAQwAbwMXeDodkp2UFuBJyg7PAav1WyUwHZ7eMu9v7wUeAk7J4+9i6TyYCuACE1mtwI3iu8UvBcYUse0FdgwP0lzQaQJ4r/jF4hclsL1JunPTRzo0cCfwlw5mAOwCtiawGw38BmzCVc2a4cDrr+oy8XeKPyeB7TPSnZ46UAXM4lLdAaBHY+OAf4E1Ceyn4KpmewGd+cAGYI3+wfIbLnKF5Cmt1Jni14ofH2NXBzQD70hva0ReD7QCOxhKl5cNVo7DUj1BDp8QP0v8AxH9k4HlQI/kfwIvABMlvwh4HDgi+XZcD36GdLukl3yV45RxxeBvlM5waWuX3qcCL+qQAXwDLAHGSr4Q+NRbyVeBORH/r0s2LTHYIhNplsPl4lvEf+cB+RA4V/IM0AYclKwfuB+YnG+RgOla+UerBTgD/ISKAVCLK897gKfJFZfZwMveJD4CliSMsRnYTbVSIHCPQMwWPwHXWwS4dNcn+QDwSLjaJfi/VPbJDp9WMXbD4073YWCDN9YK/K5AP+AOUV0pQD1ftcDPQHdSsEXvcDowh8K9CHwhsFeWAzKP/9vlL74wJQUr3ZlyeJ/466sMOLw8bIxTCEoAm9Hf9jlKaRrvR5UwoZ9jth3QhCtQ+wX4SQ9fUNC4QKBRet4sp1eJXyH+vCL2WT8D4G43Ld62AngWmCV5pti5Kga4htx1aj/wicYbFKwjxi7A65+Bs3C3nHA194ZbLE+80sAy9Fac9Vb5eQULD18rcEcBPxlgAfCut5rrgHmS1wJ3Az8CW4ATkm7VaBAfsP8+WUEfK+JjDK6/2C39Qa1uWOInAW+R6y96NLHasrdCATBrcf3DdQK1CDjdnyzwnkB2Ay2SZYGrgS6B3Ae8hmuOwoar+t/1gFc4lv7D5ep66VyCcirQCLRrzwJ8izt0DZ7PdL7nAW8oaDsuJU3E9RHrNN7p6c4EPva2xCZcMzVs16Y2BV8RIw87uQ+Ar/W+HfdZ4LSIbrqfdHFXpD5gizdWh2sPx3uHKezYPgOuQL1xxFf6n3OBGQJyrfgs7lYxCKwP/2ZynVdzNeJWMrNwpfboOcrMFppZ1swWm1lYIPr0bKwg1lGqBPA+PS/Uc9DMVprZl2bWZmYHNT5Dz37fOPU9GyVcufwK2EmB78dKWX+E6W1ECZiLa+TfR6Xak9WQK9u3VDNoWX9NaEeu0f4V161do3T3vcZXVQ1sJYAjPi7DXTJ96gIWVAOjTyWBBYIgCCggP9XM6sxsIAiCX5LaVRo31ogymuhKigJ5bkEl1fAgCI6UGrAU/YhtVq9DYv4P1O45sNKlPhcAAAAASUVORK5CYII="/>
+	</defs>
+	<rect id="app-08-hand-cart-64" width="44.000000" height="45.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip2_164)">
+		<rect id="app 08 hand cart 64" width="44.000000" height="45.000000" fill="url(#pattern_2_1630)" fill-opacity="1.000000"/>
+	</g>
+</svg>
